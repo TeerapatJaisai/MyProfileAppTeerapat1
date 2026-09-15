@@ -53,4 +53,4 @@ const styles = StyleSheet.create({
   tab: { flex: 1, justifyContent: 'center', alignItems: 'center' },
   label: { fontSize: 11, color: '#6B7280', marginTop: 2 },
   activeLabel: { color: '#7C3AED', fontWeight: 'bold' }
-});fafafafafa
+});
